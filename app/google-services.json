@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "926264198410",
+    "firebase_url": "https://databasemensajes.firebaseio.com",
+    "project_id": "databasemensajes",
+    "storage_bucket": "databasemensajes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926264198410:android:01bf723a92256af28766f3",
+        "android_client_info": {
+          "package_name": "com.example.afinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926264198410-1m06erpv3mg5d5el1oij9i2tuuciupms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.afinal",
+            "certificate_hash": "90af376cd480ac0b6f542b9093c492807f5762d0"
+          }
+        },
+        {
+          "client_id": "926264198410-7epkrpmi9orkv86ur86ltliicjl0hj5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRpUW8vunuJmIhFO2rokkh696EJxkP2U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926264198410-7epkrpmi9orkv86ur86ltliicjl0hj5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
