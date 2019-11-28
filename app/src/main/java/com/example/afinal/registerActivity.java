@@ -37,7 +37,7 @@ public class registerActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);
 
-        Toolbar toolbar = findViewById(R.id.toolbar);
+        Toolbar toolbar = findViewById(R.id.register_bar);
         setSupportActionBar(toolbar);
         getSupportActionBar().setTitle("Register");
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
@@ -94,7 +94,7 @@ public class registerActivity extends AppCompatActivity {
                         }
                     });
                 }else {
-                    Toast.makeText(registerActivity.this, "You can't reister with this email or password", Toast.LENGTH_LONG).show();
+                    Toast.makeText(registerActivity.this, "You can't register with this email or password", Toast.LENGTH_LONG).show();
                 }
             }
         });

@@ -30,7 +30,7 @@ public class loginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
 
 
-        Toolbar toolbar = findViewById(R.id.toolbar);
+        Toolbar toolbar = findViewById(R.id.login_bar);
         setSupportActionBar(toolbar);
         getSupportActionBar().setTitle("Login");
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
