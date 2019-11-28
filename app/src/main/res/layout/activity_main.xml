@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
+    android:background="#fff"
     tools:context=".MainActivity">
 
     <ImageView
@@ -26,10 +27,15 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
         android:id="@+id/login"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="#fff"
         android:text="login"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="#fff"
+        android:layout_marginTop="10dp"
         android:id="@+id/register"
         android:text="register"/>
 
